@@ -1,0 +1,15 @@
+/workspaces/Interpretador-Simples/InterpretadorRepl/bin/Debug/net8.0/InterpretadorRepl
+/workspaces/Interpretador-Simples/InterpretadorRepl/bin/Debug/net8.0/InterpretadorRepl.deps.json
+/workspaces/Interpretador-Simples/InterpretadorRepl/bin/Debug/net8.0/InterpretadorRepl.runtimeconfig.json
+/workspaces/Interpretador-Simples/InterpretadorRepl/bin/Debug/net8.0/InterpretadorRepl.dll
+/workspaces/Interpretador-Simples/InterpretadorRepl/bin/Debug/net8.0/InterpretadorRepl.pdb
+/workspaces/Interpretador-Simples/InterpretadorRepl/obj/Debug/net8.0/InterpretadorRepl.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Interpretador-Simples/InterpretadorRepl/obj/Debug/net8.0/InterpretadorRepl.AssemblyInfoInputs.cache
+/workspaces/Interpretador-Simples/InterpretadorRepl/obj/Debug/net8.0/InterpretadorRepl.AssemblyInfo.cs
+/workspaces/Interpretador-Simples/InterpretadorRepl/obj/Debug/net8.0/InterpretadorRepl.csproj.CoreCompileInputs.cache
+/workspaces/Interpretador-Simples/InterpretadorRepl/obj/Debug/net8.0/InterpretadorRepl.sourcelink.json
+/workspaces/Interpretador-Simples/InterpretadorRepl/obj/Debug/net8.0/InterpretadorRepl.dll
+/workspaces/Interpretador-Simples/InterpretadorRepl/obj/Debug/net8.0/refint/InterpretadorRepl.dll
+/workspaces/Interpretador-Simples/InterpretadorRepl/obj/Debug/net8.0/InterpretadorRepl.pdb
+/workspaces/Interpretador-Simples/InterpretadorRepl/obj/Debug/net8.0/InterpretadorRepl.genruntimeconfig.cache
+/workspaces/Interpretador-Simples/InterpretadorRepl/obj/Debug/net8.0/ref/InterpretadorRepl.dll
